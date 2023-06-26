@@ -1,0 +1,15 @@
+﻿  MAIN.cpp
+D:\编程\C++\OOC1\OOC1\MAIN.cpp(31,53): error C2664: “errno_t wcscpy_s(wchar_t *,rsize_t,const wchar_t *)”: 无法将参数 3 从“const _Elem *”转换为“const wchar_t *”
+          with
+          [
+              _Elem=char
+          ]
+D:\编程\C++\OOC1\OOC1\MAIN.cpp(31,51): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(39,30): message : 参见“wcscpy_s”的声明
+D:\编程\C++\OOC1\OOC1\MAIN.cpp(71,53): error C2664: “errno_t wcscpy_s(wchar_t *,rsize_t,const wchar_t *)”: 无法将参数 3 从“const _Elem *”转换为“const wchar_t *”
+          with
+          [
+              _Elem=char
+          ]
+D:\编程\C++\OOC1\OOC1\MAIN.cpp(71,51): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(39,30): message : 参见“wcscpy_s”的声明
