@@ -1,0 +1,11 @@
+﻿  main.c
+D:\编程\C++\RW33\RW33\main.c(58,10): warning C4133: “函数”: 从“void (__stdcall *)(LPVOID)”到“LPTHREAD_START_ROUTINE”的类型不兼容
+  marker.c
+D:\编程\C++\RW33\RW33\marker.c(25,33): warning C4047: “函数”:“LPCRITICAL_SECTION”与“LPCRITICAL_SECTION *”的间接级别不同
+D:\编程\C++\RW33\RW33\marker.c(25,25): warning C4024: “EnterCriticalSection”: 形参和实参 1 的类型不同
+D:\编程\C++\RW33\RW33\marker.c(38,34): warning C4047: “函数”:“LPCRITICAL_SECTION”与“LPCRITICAL_SECTION *”的间接级别不同
+D:\编程\C++\RW33\RW33\marker.c(38,26): warning C4024: “LeaveCriticalSection”: 形参和实参 1 的类型不同
+D:\编程\C++\RW33\RW33\marker.c(41,33): warning C4047: “函数”:“LPCRITICAL_SECTION”与“LPCRITICAL_SECTION *”的间接级别不同
+D:\编程\C++\RW33\RW33\marker.c(41,25): warning C4024: “LeaveCriticalSection”: 形参和实参 1 的类型不同
+  正在生成代码...
+  RW33.vcxproj -> D:\编程\C++\RW33\Debug\RW33.exe
