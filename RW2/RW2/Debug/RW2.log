@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\编程\C++\RW2\RW2\main.cpp(86,37): warning C4244: “参数”: 从“float”转换到“DWORD”，可能丢失数据
+D:\编程\C++\RW2\RW2\main.cpp(87,37): warning C4244: “参数”: 从“float”转换到“DWORD”，可能丢失数据
+D:\编程\C++\RW2\RW2\main.cpp(77,18): warning C4101: “uID2”: 未引用的局部变量
+D:\编程\C++\RW2\RW2\main.cpp(77,12): warning C4101: “uID1”: 未引用的局部变量
+  RW2.vcxproj -> D:\编程\C++\RW2\Debug\RW2.exe
